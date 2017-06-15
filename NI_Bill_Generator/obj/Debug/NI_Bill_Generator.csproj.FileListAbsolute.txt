@@ -1,0 +1,16 @@
+G:\Visual Sudio\Professional 2013\Projects\NI_Bill\NI_Bill_Generator\bin\Debug\NI_Bill_Generator.exe.config
+G:\Visual Sudio\Professional 2013\Projects\NI_Bill\NI_Bill_Generator\bin\Debug\NI_Bill_Generator.exe
+G:\Visual Sudio\Professional 2013\Projects\NI_Bill\NI_Bill_Generator\bin\Debug\NI_Bill_Generator.pdb
+G:\Visual Sudio\Professional 2013\Projects\NI_Bill\NI_Bill_Generator\obj\Debug\NI_Bill_Generator.Properties.Resources.resources
+G:\Visual Sudio\Professional 2013\Projects\NI_Bill\NI_Bill_Generator\obj\Debug\NI_Bill_Generator.csproj.GenerateResource.Cache
+G:\Visual Sudio\Professional 2013\Projects\NI_Bill\NI_Bill_Generator\obj\Debug\NI_Bill_Generator.exe
+G:\Visual Sudio\Professional 2013\Projects\NI_Bill\NI_Bill_Generator\obj\Debug\NI_Bill_Generator.pdb
+G:\Visual Sudio\Professional 2013\Projects\NI_Bill\NI_Bill_Generator\obj\Debug\NI_Bill_Generator.csprojResolveAssemblyReference.cache
+G:\Visual Sudio\Professional 2013\Projects\NI_Bill\NI_Bill_Generator\bin\Debug\BillingDatabase.mdf
+G:\Visual Sudio\Professional 2013\Projects\NI_Bill\NI_Bill_Generator\bin\Debug\BillingDatabase_log.ldf
+G:\Visual Sudio\Professional 2013\Projects\NI_Bill\NI_Bill_Generator\obj\Debug\NI_Bill_Generator.MainForm.resources
+G:\Visual Sudio\Professional 2013\Projects\NI_Bill\NI_Bill_Generator\obj\Debug\NI_Bill_Generator.BillCalculation.resources
+G:\Visual Sudio\Professional 2013\Projects\NI_Bill\NI_Bill_Generator\bin\Debug\itextsharp.dll
+G:\Visual Sudio\Professional 2013\Projects\NI_Bill\NI_Bill_Generator\bin\Debug\itextsharp.pdfa.dll
+G:\Visual Sudio\Professional 2013\Projects\NI_Bill\NI_Bill_Generator\bin\Debug\itextsharp.xtra.dll
+G:\Visual Sudio\Professional 2013\Projects\NI_Bill\NI_Bill_Generator\bin\Debug\itextsharp.xml
